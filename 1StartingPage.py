@@ -53,5 +53,5 @@ st.markdown("""
 5. Visualisasi
 ####
             
-### Visit Processing Page on the Left Navigation Bar
+### Next Visit Processing & Training Model Page on the Left Navigation Bar
 """)
