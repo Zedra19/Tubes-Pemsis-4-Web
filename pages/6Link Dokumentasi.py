@@ -9,7 +9,7 @@ st.header("Link Laporan Tugas Besar")
 st.markdown("""[https://docs.google.com/document/d/10tYRat4pldfwbGKQ7j1F21uOQymT5HrOpgPb_FmTWhw/edit?usp=sharing](https://docs.google.com/document/d/10tYRat4pldfwbGKQ7j1F21uOQymT5HrOpgPb_FmTWhw/edit?usp=sharing)""")
 
 st.header("Link Youtube Video")
-st.markdown("""[]()""")
+st.markdown("""[https://youtu.be/m9Wu75pZhbM](https://youtu.be/m9Wu75pZhbM)""")
 
 st.header("Link Github")
 st.markdown("""[https://github.com/Zedra19/Tubes-Pemsis-4-Web](https://github.com/Zedra19/Tubes-Pemsis-4-Web)""")
